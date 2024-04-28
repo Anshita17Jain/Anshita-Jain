@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👨‍💻 Rudresh Raj
+# 👨‍💻 Anshita Jain
 
 **Frontend Web Developer | UI/UX Enthusiast**
 
