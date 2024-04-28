@@ -1,4 +1,3 @@
-# Anshita-Jain
 <!--
 *WEB-DEV-EXPERT/WEB-DEV-EXPERT* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
@@ -41,7 +40,7 @@ I'm a passionate frontend web developer, specializing in crafting visually appea
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rudresh-raj-510734229/" target="_blank">
+  <a href="www.linkedin.com/in/anshita-jain-jan17" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="@johndoe" height="30" width="30" />
   </a>
 <!--   <a href="https://twitter.com/johndoe" target="_blank">
